@@ -1,7 +1,7 @@
 version: '3'
 services:
   iti_docker:
-    image: nour2001/php-app:latest
+    image: nour2001/iti_docker:latest
     ports:
       - "8080:80"
     volumes:
