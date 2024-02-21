@@ -1,4 +1,4 @@
 <?php
 
-echo '<h2>Welcome To Docker Course :) </h2>';
+echo '<h2> Welcome To Docker Course :) </h2>';
 ?>
